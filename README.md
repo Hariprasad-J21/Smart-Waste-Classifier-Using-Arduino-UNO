@@ -11,7 +11,7 @@ Smart waste classifier is a device which can automatically sort waste materials 
 
 
 
-## Circuit Diagram
+## Screenshots
 
 ![App Screenshot](https://drive.google.com/file/d/1v1fgMFu9_Lps-Juq5onp1_EA7XKYRCBO/view?usp=sharing)
 
