@@ -95,7 +95,7 @@ else if(value2_cap==HIGH)
     delay(5000);
 }
 }
-if(Moisture_val<100)
+if(Moisture_val<540)
 {
   Serial.println("Wet material detected");
     servo2.write(180);
